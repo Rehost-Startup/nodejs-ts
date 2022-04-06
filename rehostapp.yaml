@@ -1,0 +1,8 @@
+version: 1
+
+label: 'svr8.personal.template-node-ts'
+urls:
+  - "template.node-ts:3000"
+app_type: 'docker-compose'
+machines:
+  - "svr8.personal.g14"
